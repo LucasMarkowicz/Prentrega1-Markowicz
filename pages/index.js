@@ -10,7 +10,7 @@ export default function Home() {
       <Navbar title={"home page"}>
 
       </Navbar>
-        <h2 className='text-center mt-5 mb-5'>List of products</h2>
+        <h2 className='text-center mt-5 mb-5'>Apple Products</h2>
         <div className="container">
           <div className="row row-cols-1 row-cols-md-2 g-4">
             {data.products.map((product) => (
