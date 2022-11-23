@@ -7,7 +7,7 @@ import data from '../utils/data'
 export default function Home() {
   return (
     <div>
-      <Navbar title={"home page"}>
+      <Navbar title={"Tienda Apple Import"}>
 
       </Navbar>
         <h2 className='text-center mt-5 mb-5'>Apple Products</h2>
